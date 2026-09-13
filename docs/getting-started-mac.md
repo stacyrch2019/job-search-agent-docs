@@ -8,7 +8,7 @@ By the end of this article, you'll have this job search agent running and a CSV 
 - pip installed
 - a terminal
 
-> ![NOTE]
+> [!NOTE]
 > JobSpy doesn't yet run on Python 3.14. 
 
 ## Installation
