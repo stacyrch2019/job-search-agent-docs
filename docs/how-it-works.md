@@ -18,6 +18,9 @@ The jobspy library scrapes LinkedIn and Indeed independently. If LinkedIn fails,
 
 Sometimes LinkedIn rejects search terms and the script still runs instead of crashing. 
 
+> [!Note]
+> LinkedIn may return job listings from an unsupported country/region, such as Belarus. This can cause the job search agent to crash.
+
 ## Output File
 
 The output file is `ai_jobs_YYYY-MM-DD.csv.` The columns consist of job ID, the site, the `job_url_direct`, the company, location, and job posted. The file tells you whether or not a role is remote. The file also gives you the `company_url` and the `company_url_direct`. 
