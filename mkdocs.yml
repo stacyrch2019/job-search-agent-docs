@@ -1,6 +1,6 @@
 site_name: Job Search Agent
 nav:
-  - Home: index-mac.md
+  - Home: index.md
 nav:
   - Getting Started: getting-started-mac.md
   - How It Works: how-it-works-mac.md
